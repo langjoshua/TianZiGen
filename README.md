@@ -1,4 +1,4 @@
-# TianZiGen
+<h1><a href="https://langjoshua.github.io/TianZiGen/">TianZiGen</a></h1>
 
 <a href="https://langjoshua.github.io/TianZiGen/">
   <img src="screenshot.png" width="700">
