@@ -1,5 +1,11 @@
 # TianZiGen
-Generate printable tiánzìgē (田字格) character grids with customizable formatting and vocabulary.
+
+<a href="https://langjoshua.github.io/TianZiGen/">
+  <img src="screenshot.png" width="700">
+</a>
+
+Generate printable tiánzìgē (田字格) worksheets with stroke order.
+
 
 ## Acknowledgments
 - [jsPDF](https://github.com/parallax/jsPDF) — MIT License  
